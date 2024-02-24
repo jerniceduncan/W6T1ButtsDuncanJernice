@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W6T1ButtsDuncanJernice", "W6T1ButtsDuncanJernice.csproj", "{B8C144B1-9A12-4D9E-8C32-0935DC288D6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C144B1-9A12-4D9E-8C32-0935DC288D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C144B1-9A12-4D9E-8C32-0935DC288D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C144B1-9A12-4D9E-8C32-0935DC288D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C144B1-9A12-4D9E-8C32-0935DC288D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0682EEDA-0DF8-4656-AEBB-50D7DF5C8E67}
+	EndGlobalSection
+EndGlobal
